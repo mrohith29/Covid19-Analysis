@@ -52,7 +52,7 @@ tsa <- covid19.data(case = 'ts-A')
 
 We performed several amazing analyses on the data.
 
-1. Generate a summary report of the latest  10 entriws in the data:
+1. Generate a summary report of the latest  10 entries in the data:
    
 ```r
 report.summary(Nentries = 10, graphical.output=T)
