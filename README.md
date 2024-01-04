@@ -104,3 +104,5 @@ live.map(tsa)
 ```r
 generate.SIR.model(tsa, 'India')
 ```
+
+[![RepoRater](https://repo-rater.eddiehub.io/api/badge?mrohith29=EddieHubCommunity&Covid19-Analysis=RepoRater)](https://repo-rater.eddiehub.io/rate?mrohith29=EddieHubCommunity&Covid19-Analysis=RepoRater)
