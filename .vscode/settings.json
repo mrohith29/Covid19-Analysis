@@ -1,0 +1,4 @@
+{
+    "r.lsp.promptToInstall": false,
+    "java.debug.settings.onBuildFailureProceed": true
+}
