@@ -104,3 +104,4 @@ live.map(tsa)
 ```r
 generate.SIR.model(tsa, 'India')
 ```
+# end
